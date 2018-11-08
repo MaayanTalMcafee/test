@@ -14,4 +14,6 @@ BugFix 223
 
 Started Version 3.0 
 
-abnormal (commit no branch) 
+abnormal (commit no branch)
+
+Added feature 3.1 
