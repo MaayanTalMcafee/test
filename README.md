@@ -13,3 +13,7 @@ Added Feature 3
 BugFix 223
 
 commit to master directrly
+Started Version 3.0 
+
+abnormal (commit no branch)
+
