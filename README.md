@@ -11,3 +11,5 @@ Added Feature #2
 Added Feature 3
 
 BugFix 223
+
+commit to master directrly
